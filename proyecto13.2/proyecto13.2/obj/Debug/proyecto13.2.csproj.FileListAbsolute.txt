@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\validacion-de-un-triangulo\proyecto13.2\proyecto13.2\bin\Debug\proyecto13.2.exe.config
+D:\Programas\Cursos\C# ya\validacion-de-un-triangulo\proyecto13.2\proyecto13.2\bin\Debug\proyecto13.2.exe
+D:\Programas\Cursos\C# ya\validacion-de-un-triangulo\proyecto13.2\proyecto13.2\bin\Debug\proyecto13.2.pdb
+D:\Programas\Cursos\C# ya\validacion-de-un-triangulo\proyecto13.2\proyecto13.2\obj\Debug\proyecto13.2.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\validacion-de-un-triangulo\proyecto13.2\proyecto13.2\obj\Debug\proyecto13.2.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\validacion-de-un-triangulo\proyecto13.2\proyecto13.2\obj\Debug\proyecto13.2.exe
+D:\Programas\Cursos\C# ya\validacion-de-un-triangulo\proyecto13.2\proyecto13.2\obj\Debug\proyecto13.2.pdb
